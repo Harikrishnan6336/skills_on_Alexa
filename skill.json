@@ -1,0 +1,56 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-IN": {
+          "summary": "A cat fact generator that provides cool cat facts",
+          "examplePhrases": [
+            "Alexa open cat facts",
+            "cat fact",
+            "help"
+          ],
+          "keywords": [
+            "cat",
+            "cats",
+            "facts",
+            "fact",
+            "trivia"
+          ],
+          "name": "Cat facts",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "description": "A cat fact generator that provides cool cat facts when the user asks. You  need an amazon account to enable the skill under the manage skill section.The skill is completely free of cost and does not contain any ads or purchases.There is no specific account or hardware requirements.",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "First tell \"Open cat facts\" to invoke the skill and then tell \"\"tell me a cat fact\" to hear the fact",
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:273462307493:function:825f78b0-462d-4fcf-8acf-31ab197b1b07:Release_0"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-IN": {
+          "termsOfUseUrl": "https://gist.github.com/Harikrishnan6336/c23d623c5944425c3b02c8d3f1517ebe",
+          "privacyPolicyUrl": "https://gist.github.com/Harikrishnan6336/d1f07690e427bf5ad13bf47a88701d2c"
+        }
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
