@@ -5,7 +5,9 @@ An amazon alexa skill --  Cat facts
 
 <h4>🌟The skills got verified by Alexa and is now live in Amazon Indian store. You can Click the image below to see it  
 
-
+<br>
+<br>
+<br>
 <p align="center">
  <a href"https://www.amazon.in/dp/B0872Y1BPH/ref=cm_cr_arp_d_product_top?ie=UTF8">
     <img  alt="screenshot" src="https://github.com/Harikrishnan6336/skills_on_Alexa--Cat_facts/blob/Screenshot_included/Screenshot%20(16).png"/>
