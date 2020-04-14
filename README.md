@@ -3,7 +3,7 @@ An amazon alexa skill --  Cat facts
 
 <h3>This repo contains my submittion to my first alexa skill a cat fact generator!!!</h3> 
 
-<h4>The skills got verified by Alexa and is now live in Amazon Indian store. You can Click the image below to see it  
+<h4>🌟The skills got verified by Alexa and is now live in Amazon Indian store. You can Click the image below to see it  
 
 
 <p align="center">
